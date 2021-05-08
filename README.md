@@ -8,4 +8,4 @@
       ██████╔╝██║  ██║██║  ██║███████║██║  ██╗╚██████╔╝ ╚████╔╝ 
       ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
                                                           
-[![STATS](https://github-readme-stats.vercel.app/api?not-bsk=anuraghazra)](https://github.com/not-bsk)
+[![STATS](https://github-readme-stats.vercel.app/api?Braskov=anuraghazra)](https://github.com/not-bsk)
