@@ -1,9 +1,26 @@
-![ec618497b2694a91c114c507ab1da9dc66850491r1-475-475_hq](https://64.media.tumblr.com/56535851b2fd6fe1740508f6cffc02c0/50320a79b22b8a694f/s640x960/a2801e8812b953c8952ae87596503d240c6f9bd9.gifv)
+### sltcv ? 👋 
 
 
-      ██████╗ ██████╗  █████╗ ███████╗██╗  ██╗ ██████╗ ██╗   ██╗
-      ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔═══██╗██║   ██║
-      ██████╔╝██████╔╝███████║███████╗█████╔╝ ██║   ██║██║   ██║
-      ██╔══██╗██╔══██╗██╔══██║╚════██║██╔═██╗ ██║   ██║╚██╗ ██╔╝
-      ██████╔╝██║  ██║██║  ██║███████║██║  ██╗╚██████╔╝ ╚████╔╝ 
-      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+- 🌱 I’m currently learning web developmnent 
+- 🥅 2022 Goals: Learn at least 3 code languages.
+
+
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<br />
+<br />
+
+---
+
