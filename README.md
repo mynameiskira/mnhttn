@@ -1,9 +1,5 @@
-### sltcv ? 👋 
-
-
-- 🌱 I’m currently learning web developmnent 
-- 🥅 2022 Goals: Learn at least 3 code languages.
-
+### ⫷ it was always me ⫸
+ ⫷ 𝐃𝐎𝐏𝐄 ⫸
 
 
 ### Languages and Tools:
