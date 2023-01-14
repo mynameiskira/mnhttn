@@ -24,5 +24,9 @@
 <br />
 <br />
 
+<p align="center">
+    <br>Number of views: <br>
+    <img src="https://profile-counter.glitch.me/its-dope/count.svg" />
+</p>
 ---
 
