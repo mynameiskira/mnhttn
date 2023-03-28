@@ -7,12 +7,12 @@
 
 
 
-DO NOT              🌀             EVER TRY TO SLEEP
+IT WAS ALWAYS KIRA
 
 
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/857714045251878972/1056641164008235008/The_Gypsy_Astronaut.gif">
+  <img src="https://media.discordapp.net/attachments/795007591717273650/1090373406198857829/KIRA-removebg-preview.png">
 </p>
 
 
