@@ -1,13 +1,15 @@
        
-### ⫷ 𝐃𝐎𝐏𝐄 ⫸
+### ⫷ KIRA ⫸
 
-🔱Freelance Developper
-💫Full Stack Student
+✯ Freelance Developper
+- 
+✯ Full Stack Student
 
 
 
 
-IT WAS ALWAYS KIRA
+
+✵ IT WAS ALWAYS KIRA ✵
 
 
 
