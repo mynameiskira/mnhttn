@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/795007591717273650/1090373406198857829/KIRA-removebg-preview.png">
+  <img src="https://media.discordapp.net/attachments/857714045251878972/1106686979250339920/a_b1dea1b40ef236c3344879fb00322694.gif?width=800&height=320">
 </p>
 
 
@@ -29,15 +29,15 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/dart.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/flutter.png" />]
 
 <br />
 <br />
 
 <p align="center">
     <br>Number of views: <br>
-    <img src="https://profile-counter.glitch.me/its-dope/count.svg" />
+    <img src="https://profile-counter.glitch.me/its-kira/count.svg" />
 </p>
 ---
 
